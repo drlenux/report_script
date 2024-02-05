@@ -4,3 +4,4 @@ PyYAML~=6.0.1
 mysql-connector-python~=8.3.0
 pydantic~=2.6.0
 uvicorn~=0.27.0
+pyinstaller~=6.3.0
