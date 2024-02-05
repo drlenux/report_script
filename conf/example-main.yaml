@@ -1,0 +1,13 @@
+version: 1.0
+
+connect:
+  host: 127.0.0.1
+  port: 3306
+  db_name: app
+  user: root
+  password: root
+
+reporting:
+  test:
+    sql: test.sql
+    description: Full test sql
