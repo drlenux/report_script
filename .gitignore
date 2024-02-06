@@ -4,3 +4,4 @@
 /main.spec
 /conf/*.sql
 /conf/main.yaml
+/dist
